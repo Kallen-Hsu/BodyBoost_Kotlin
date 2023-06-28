@@ -1,0 +1,273 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\6b8e249a0a1ce3c61273edf4d14ba7ba\transformed\jetified-viewbinding-7.4.2\AndroidManifest.xml:2:1-7:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\7c58e58b1c1f2f055ca4ada02e5ecda3\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\236f56ba580a0d60bb81a0aa6e2df701\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\b0ce1e40e43a4a23f8962e8033b6315a\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\acfefa2ed5d9d6ba2d61e7c1568a7481\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\35353e4cbcb666073dca7754fa5c4c2e\transformed\appcompat-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\f853014b896699201a49523830463579\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\3b23045e51290a3e3ae111ba16a43f67\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\4c16edff9944b0f46cb4796e29a1ae65\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\b291a1ed51a8eb85ab24719ab7a65f77\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\fe22705dd275d312bbfc41d0b5a9d3e3\transformed\jetified-appcompat-resources-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\7d6ef5fc39664cdf78a004af54e9ec30\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\5b722b78686cf2e5c2ac3551f1e23bc1\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\d78a48d8c2b5f6abde33f3a44a9fa3fc\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\49dcdf61320af8f9e7c4ba668d33a86c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\8f235fb01ba5af6bcc1fc80e5a4becee\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\1efbe97182c29fc5fc13d2342b3a8b7c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\690d2026ed58dac0289c685abff39264\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\d2777e396c16e811cf813deb2c8187da\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\5c984be0281231bec7e8a24f5bd47d59\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\f7c6732008a37a9445c505921488f3dc\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\20b799ff962d5feba8ce2d9de9abf08a\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\174f596e67db6480fc6e1b25715517f9\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\081e083cf1ff90963193b7f4766a2f38\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\a4089faf858210b5aac06c331e044a20\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\2ea6686911674d5ba215ffc031f56c3b\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\017f1635e379141748b1b388d1f24f1c\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\107235fc6f1f7edb36c6d85132d06f2f\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\b375e5d9cc51ac02c766ea819eab8aed\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\bb5077a2fcd723fe41732cdf8b38a68f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\a3c3092d181a88cce24b5b5a2f3eb244\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\ec01f7dc7bb9b3d1cb0ce41c25286fa0\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\7a7045a906723c8ae237c91dc7ac5964\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\e09cdb64b0f1d481468c422b7c41b89d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\6f357198acb94246aa1ad18d0313f4d5\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\10e91df797170adb09ea350d79553794\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\2bb4f8c622d0e395bb525660dad10788\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\34e9b5b300733c338cd2ea57616116b5\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\bf46047ade93f3aa35cb9ef45eb2d44f\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\9bf655dbc548b50387ca7d09f73b7cf6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\9bdc954eb7ce8034708a674956ce57ab\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\ba69467e2c4e553122ab008a618b6ace\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		INJECTED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:5:5-38:19
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\7c58e58b1c1f2f055ca4ada02e5ecda3\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\7c58e58b1c1f2f055ca4ada02e5ecda3\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\b0ce1e40e43a4a23f8962e8033b6315a\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\b0ce1e40e43a4a23f8962e8033b6315a\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\acfefa2ed5d9d6ba2d61e7c1568a7481\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\acfefa2ed5d9d6ba2d61e7c1568a7481\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\5b722b78686cf2e5c2ac3551f1e23bc1\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\5b722b78686cf2e5c2ac3551f1e23bc1\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\081e083cf1ff90963193b7f4766a2f38\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\081e083cf1ff90963193b7f4766a2f38\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\bb5077a2fcd723fe41732cdf8b38a68f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\bb5077a2fcd723fe41732cdf8b38a68f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\a3c3092d181a88cce24b5b5a2f3eb244\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\a3c3092d181a88cce24b5b5a2f3eb244\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\ec01f7dc7bb9b3d1cb0ce41c25286fa0\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\ec01f7dc7bb9b3d1cb0ce41c25286fa0\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\081e083cf1ff90963193b7f4766a2f38\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:8:9-54
+	tools:targetApi
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:13:9-29
+	android:icon
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:9:9-41
+	android:allowBackup
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:12:9-47
+	android:dataExtractionRules
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.example.bodyboost.DetailedActivity
+ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:14:9-16:40
+	android:exported
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:15:13-45
+activity#com.example.bodyboost.WelcomeActivity
+ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:exported
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:18:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.bodyboost.LoginActivity
+ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:26:9-28:39
+	android:exported
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:27:13-42
+activity#com.example.bodyboost.MainActivity
+ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:29:9-31:39
+	android:exported
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:30:13-41
+activity#com.example.bodyboost.RegisterActivity
+ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:32:9-34:39
+	android:exported
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:33:13-45
+activity#com.example.bodyboost.RegisterInfoActivity
+ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:35:9-37:39
+	android:exported
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml:36:13-49
+uses-sdk
+INJECTED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\6b8e249a0a1ce3c61273edf4d14ba7ba\transformed\jetified-viewbinding-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.2] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\6b8e249a0a1ce3c61273edf4d14ba7ba\transformed\jetified-viewbinding-7.4.2\AndroidManifest.xml:5:5-44
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\7c58e58b1c1f2f055ca4ada02e5ecda3\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\7c58e58b1c1f2f055ca4ada02e5ecda3\transformed\jetified-circleimageview-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\236f56ba580a0d60bb81a0aa6e2df701\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\236f56ba580a0d60bb81a0aa6e2df701\transformed\jetified-core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\b0ce1e40e43a4a23f8962e8033b6315a\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\b0ce1e40e43a4a23f8962e8033b6315a\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\acfefa2ed5d9d6ba2d61e7c1568a7481\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\acfefa2ed5d9d6ba2d61e7c1568a7481\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\35353e4cbcb666073dca7754fa5c4c2e\transformed\appcompat-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\35353e4cbcb666073dca7754fa5c4c2e\transformed\appcompat-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\f853014b896699201a49523830463579\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\f853014b896699201a49523830463579\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\3b23045e51290a3e3ae111ba16a43f67\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\3b23045e51290a3e3ae111ba16a43f67\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\4c16edff9944b0f46cb4796e29a1ae65\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\4c16edff9944b0f46cb4796e29a1ae65\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\b291a1ed51a8eb85ab24719ab7a65f77\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\b291a1ed51a8eb85ab24719ab7a65f77\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\fe22705dd275d312bbfc41d0b5a9d3e3\transformed\jetified-appcompat-resources-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\fe22705dd275d312bbfc41d0b5a9d3e3\transformed\jetified-appcompat-resources-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\7d6ef5fc39664cdf78a004af54e9ec30\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\7d6ef5fc39664cdf78a004af54e9ec30\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\5b722b78686cf2e5c2ac3551f1e23bc1\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\5b722b78686cf2e5c2ac3551f1e23bc1\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\d78a48d8c2b5f6abde33f3a44a9fa3fc\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\d78a48d8c2b5f6abde33f3a44a9fa3fc\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\49dcdf61320af8f9e7c4ba668d33a86c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\49dcdf61320af8f9e7c4ba668d33a86c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\8f235fb01ba5af6bcc1fc80e5a4becee\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\8f235fb01ba5af6bcc1fc80e5a4becee\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\1efbe97182c29fc5fc13d2342b3a8b7c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\1efbe97182c29fc5fc13d2342b3a8b7c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\690d2026ed58dac0289c685abff39264\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\690d2026ed58dac0289c685abff39264\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\d2777e396c16e811cf813deb2c8187da\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\d2777e396c16e811cf813deb2c8187da\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\5c984be0281231bec7e8a24f5bd47d59\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\5c984be0281231bec7e8a24f5bd47d59\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\f7c6732008a37a9445c505921488f3dc\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\f7c6732008a37a9445c505921488f3dc\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\20b799ff962d5feba8ce2d9de9abf08a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\20b799ff962d5feba8ce2d9de9abf08a\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\174f596e67db6480fc6e1b25715517f9\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\174f596e67db6480fc6e1b25715517f9\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\081e083cf1ff90963193b7f4766a2f38\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\081e083cf1ff90963193b7f4766a2f38\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\a4089faf858210b5aac06c331e044a20\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\a4089faf858210b5aac06c331e044a20\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\2ea6686911674d5ba215ffc031f56c3b\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\2ea6686911674d5ba215ffc031f56c3b\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\017f1635e379141748b1b388d1f24f1c\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\017f1635e379141748b1b388d1f24f1c\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\107235fc6f1f7edb36c6d85132d06f2f\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\107235fc6f1f7edb36c6d85132d06f2f\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\b375e5d9cc51ac02c766ea819eab8aed\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\b375e5d9cc51ac02c766ea819eab8aed\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\bb5077a2fcd723fe41732cdf8b38a68f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\bb5077a2fcd723fe41732cdf8b38a68f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\a3c3092d181a88cce24b5b5a2f3eb244\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\a3c3092d181a88cce24b5b5a2f3eb244\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\ec01f7dc7bb9b3d1cb0ce41c25286fa0\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\ec01f7dc7bb9b3d1cb0ce41c25286fa0\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\7a7045a906723c8ae237c91dc7ac5964\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\7a7045a906723c8ae237c91dc7ac5964\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\e09cdb64b0f1d481468c422b7c41b89d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\e09cdb64b0f1d481468c422b7c41b89d\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\6f357198acb94246aa1ad18d0313f4d5\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\6f357198acb94246aa1ad18d0313f4d5\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\10e91df797170adb09ea350d79553794\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\10e91df797170adb09ea350d79553794\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\2bb4f8c622d0e395bb525660dad10788\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\2bb4f8c622d0e395bb525660dad10788\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\34e9b5b300733c338cd2ea57616116b5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\34e9b5b300733c338cd2ea57616116b5\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\bf46047ade93f3aa35cb9ef45eb2d44f\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\bf46047ade93f3aa35cb9ef45eb2d44f\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\9bf655dbc548b50387ca7d09f73b7cf6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\9bf655dbc548b50387ca7d09f73b7cf6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\9bdc954eb7ce8034708a674956ce57ab\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\9bdc954eb7ce8034708a674956ce57ab\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\ba69467e2c4e553122ab008a618b6ace\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\ba69467e2c4e553122ab008a618b6ace\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\User\StudioProjects\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\5b722b78686cf2e5c2ac3551f1e23bc1\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\a3c3092d181a88cce24b5b5a2f3eb244\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\a3c3092d181a88cce24b5b5a2f3eb244\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\ec01f7dc7bb9b3d1cb0ce41c25286fa0\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\ec01f7dc7bb9b3d1cb0ce41c25286fa0\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\5b722b78686cf2e5c2ac3551f1e23bc1\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\5b722b78686cf2e5c2ac3551f1e23bc1\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\5b722b78686cf2e5c2ac3551f1e23bc1\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\5b722b78686cf2e5c2ac3551f1e23bc1\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\5b722b78686cf2e5c2ac3551f1e23bc1\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\5b722b78686cf2e5c2ac3551f1e23bc1\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\5b722b78686cf2e5c2ac3551f1e23bc1\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\a3c3092d181a88cce24b5b5a2f3eb244\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\a3c3092d181a88cce24b5b5a2f3eb244\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\User\StudioProjects\Body_Boost\caches\transforms-3\a3c3092d181a88cce24b5b5a2f3eb244\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78

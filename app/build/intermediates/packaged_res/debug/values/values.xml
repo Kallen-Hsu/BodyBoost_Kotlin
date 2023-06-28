@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Languages">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Swift</item>
+        <item>Python</item>
+        <item>Scala</item>
+        <item>Perl</item>
+    </string-array>
+    <color name="Lavender">#AEC5EB</color>
+    <color name="Second">#E39D8F</color>
+    <color name="TextBoxColor">#575757</color>
+    <color name="TextColor">#FF000000</color>
+    <color name="Yellow">#F9DEC9</color>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="app_name">BodyBoost</string>
+    <string name="check_in">每日打卡版</string>
+    <string name="check_password">確認密碼</string>
+    <string name="close">Close</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="open">Open</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="other_sport">其他運動</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="recently_sport">近期運動</string>
+    <string name="search">Search</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="welcome">"Welcome !"</string>
+    <style name="Base.Theme.Spinner" parent="Theme.Material3.DayNight.NoActionBar"/>
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/slide_in</item>
+        <item name="android:windowExitAnimation">@anim/slide_out</item>
+    </style>
+    <style name="Theme.BodyBoost" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/Second</item>
+        <item name="colorPrimaryVariant">#AEC5EB</item>
+        <item name="colorOnPrimary">@color/Second</item>
+        <item name="android:textColor">@color/Second</item>
+        <item name="android:iconTint">@color/white</item>
+        <item name="actionBarPopupTheme">@color/white</item>
+        
+        <item name="colorSecondary">@color/Lavender</item>
+        <item name="colorSecondaryVariant">@color/Lavender</item>
+        <item name="colorOnSecondary">@color/Second</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="roundedImageViewRound">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="theme.spinner" parent="Base.Theme.Spinner"/>
+</resources>

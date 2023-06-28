@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "com.example.bodyboost.app-mergeDebugResources-26:/layout/toolbar_bottom.xml",
+        "source": "com.example.bodyboost.app-main-29:/layout/toolbar_bottom.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-mergeDebugResources-26:/layout/nav_header.xml",
+        "source": "com.example.bodyboost.app-main-29:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-mergeDebugResources-26:/layout/fragment_report.xml",
+        "source": "com.example.bodyboost.app-main-29:/layout/fragment_report.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-mergeDebugResources-26:/layout/activity_detailed.xml",
+        "source": "com.example.bodyboost.app-main-29:/layout/activity_detailed.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-mergeDebugResources-26:/layout/list_item.xml",
+        "source": "com.example.bodyboost.app-main-29:/layout/list_item.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-mergeDebugResources-26:/layout/activity_login.xml",
+        "source": "com.example.bodyboost.app-main-29:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-mergeDebugResources-26:/layout/toolbar.xml",
+        "source": "com.example.bodyboost.app-main-29:/layout/toolbar.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-mergeDebugResources-26:/layout/activity_main1.xml",
+        "source": "com.example.bodyboost.app-main-29:/layout/activity_main1.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-mergeDebugResources-26:/layout/activity_register.xml",
+        "source": "com.example.bodyboost.app-main-29:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-mergeDebugResources-26:/layout/fragment_record.xml",
+        "source": "com.example.bodyboost.app-main-29:/layout/fragment_record.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-mergeDebugResources-26:/layout/activity_welcome.xml",
+        "source": "com.example.bodyboost.app-main-29:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-mergeDebugResources-26:/layout/fragment_home.xml",
+        "source": "com.example.bodyboost.app-main-29:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-mergeDebugResources-26:/layout/activity_register_info.xml",
+        "source": "com.example.bodyboost.app-main-29:/layout/activity_register_info.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-mergeDebugResources-26:/layout/fragment_sports.xml",
+        "source": "com.example.bodyboost.app-main-29:/layout/fragment_sports.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-mergeDebugResources-26:/layout/activity_main.xml",
+        "source": "com.example.bodyboost.app-main-29:/layout/activity_main.xml"
+    }
+]

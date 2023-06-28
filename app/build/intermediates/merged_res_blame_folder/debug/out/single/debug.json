@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/layout_activity_login.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bodyboost.app-main-29:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/anim_slide_out.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/anim/slide_out.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_baseline_video_library_24.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/baseline_video_library_24.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_aklogo.png.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/aklogo.png"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/menu_bottom_menu.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/layout_toolbar.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/layout/toolbar.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/layout_activity_detailed.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/layout/activity_detailed.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_loginbkg.png.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/loginbkg.png"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_dialogbkg.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/dialogbkg.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_button.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/button.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_baseline_subscriptions_24.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/baseline_subscriptions_24.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/layout_nav_header.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_bar_chart.png.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/bar_chart.png"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_baseline_bar_chart_24.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/baseline_bar_chart_24.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/layout_activity_register_info.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/layout/activity_register_info.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/xml_backup_rules.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_item_selector.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/item_selector.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/layout_activity_register.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_baseline_clear_24.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/baseline_clear_24.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_baseline_whatshot_24.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/baseline_whatshot_24.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_baseline_info_24.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/baseline_info_24.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/layout_list_item.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/layout/list_item.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bodyboost.app-main-29:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_sit_ups.png.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/sit_ups.png"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/layout_fragment_report.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/layout/fragment_report.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.bodyboost.app-main-29:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_custom_edittext.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/custom_edittext.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_baseline_mail_24.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/baseline_mail_24.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_pushup.png.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/pushup.png"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_salad.png.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/salad.png"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_setting.png.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/setting.png"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_baseline_question_answer_24.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/baseline_question_answer_24.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_tool.png.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/tool.png"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_baseline_settings_24.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/baseline_settings_24.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/layout_toolbar_bottom.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/layout/toolbar_bottom.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_tea_cup.png.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/tea_cup.png"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_headerbkg.png.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/headerbkg.png"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_rice_bowl.png.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/rice_bowl.png"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_baseline_person_24.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/menu_nav_menu.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/menu/nav_menu.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/layout_fragment_sports.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/layout/fragment_sports.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.bodyboost.app-main-29:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/anim_slide_in.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/anim/slide_in.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_checkin.png.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/checkin.png"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_baseline_cast_connected_24.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/baseline_cast_connected_24.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bodyboost.app-main-29:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/menu_toolbar_menu.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/menu/toolbar_menu.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/layout_fragment_record.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/layout/fragment_record.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.bodyboost.app-main-29:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.bodyboost.app-main-29:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/layout_activity_main1.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/layout/activity_main1.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_next_month.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/next_month.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_bkg.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/bkg.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_baseline_add_24.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/baseline_add_24.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_dinner.png.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/dinner.png"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_baseline_remove_24.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/baseline_remove_24.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.bodyboost.app-main-29:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bodyboost.app-main-29:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/layout_activity_welcome.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_home_icon_o.png.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/home_icon_o.png"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_baseline_lock_24.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/baseline_lock_24.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_push_up.png.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/push_up.png"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_applogo.png.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/applogo.png"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_sport.png.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/sport.png"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_last_month.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/last_month.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_sport_icon_o.png.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/sport_icon_o.png"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_baseline_home_24.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/layout_fragment_home.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_button_style.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/button_style.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_baseline_edit_note_24.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/baseline_edit_note_24.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.bodyboost.app-main-29:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_sign.png.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/sign.png"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_baseline_search_24.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/baseline_search_24.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_rectangle.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/rectangle.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_rectangle_50.png.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/rectangle_50.png"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_baseline_share_24.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/baseline_share_24.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_squat.png.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/squat.png"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_month_toolbar.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/month_toolbar.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_google.png.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/google.png"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/drawable_baseline_exit_to_app_24.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/drawable/baseline_exit_to_app_24.xml"
+    },
+    {
+        "merged": "com.example.bodyboost.app-merged_res-27:/layout_activity_main.xml.flat",
+        "source": "com.example.bodyboost.app-main-29:/layout/activity_main.xml"
+    }
+]
